@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\Exos\Bex6\Bex6\Bex6\obj\Debug\Bex6.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\Bex6\Bex6\Bex6\obj\Debug\Bex6.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Exos\Bex6\Bex6\Bex6\bin\Debug\Bex6.exe.config
+C:\Users\Dell\Documents\Exos\Bex6\Bex6\Bex6\bin\Debug\Bex6.exe
+C:\Users\Dell\Documents\Exos\Bex6\Bex6\Bex6\bin\Debug\Bex6.pdb
+C:\Users\Dell\Documents\Exos\Bex6\Bex6\Bex6\obj\Debug\Bex6.exe
+C:\Users\Dell\Documents\Exos\Bex6\Bex6\Bex6\obj\Debug\Bex6.pdb
