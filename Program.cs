@@ -11,10 +11,9 @@ namespace Bex6
         static void Main(string[] args)
         {
         string[] months = new string[] {"Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Août","Septembre","Octobre","Novembre","Décembre"};
-            
-            foreach (string month in months)
+            foreach (string element in months) // Pour chaque variable caractère " element " écrit l'élément correspondant dans le tableau "months"
             {
-             Console.WriteLine($"{month}");
+             Console.WriteLine(element);
             }
         }
     }
